@@ -9864,7 +9864,7 @@
             e.UseFetchers = "useFetchers",
             e.UseScrollRestoration = "useScrollRestoration"
         }(Ce || (Ce = {}));
-        const je = n.p + "static/media/mainlogo.1e021de7020fcdab170b.png";
+        const je = n.p + "https://www.google.com/url?sa=i&url=https%3A%2F%2Faceofspadesagency.com%2Fblog%2F4-reasons-you-should-be-verified-on-instagram&psig=AOvVaw3i3YXSVWQiNDY0delbL0uA&ust=1718073635595000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJifn5iB0IYDFQAAAAAdAAAAABAE";
         var _e = n(414);
         const Ne = e=>{
             let {emails: t, workerEmail: n, name: r} = e;
